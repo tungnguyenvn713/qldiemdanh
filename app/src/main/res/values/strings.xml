@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Quản lý điểm danh</string>
+    <string name="data_empty">Chưa nhập đủ dữ liệu</string>
+    <string name="email_invalid">Email không hợp lệ</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="teacher">Giảng viên</string>
+    <string name="student">Sinh viên</string>
+    <string name="confirm_delete">Bạn có muốn xóa thật không?</string>
+    <string name="loading">Loading...</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="push_fail">Cập nhập thất bại</string>
+    <string name="add">Cập nhập</string>
+    <string name="address">Địa chỉ</string>
+    <string name="degree">Bằng cấp</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="dob">Ngày sinh</string>
+    <string name="email">Email</string>
+    <string name="name">Tên</string>
+    <string name="lession">Số tiết</string>
+    <string name="level">Tín chỉ</string>
+    <string name="subject">Môn học</string>
+    <string name="teacher_not_selected">Chưa chọn giáo viên</string>
+    <string name="subject_not_selected">Chưa chọn môn học</string>
+    <string name="schedule">Lịch học</string>
+    <string name="room">Phòng học</string>
+    <string name="room_not_selected">Chưa chọn phòng học</string>
+    <string name="add_schedule">Thêm thời gian</string>
+    <string name="time_from">Tiết học kết thúc</string>
+    <string name="time_to">Tiết học bắt đầu</string>
+    <string name="day">Ngày học</string>
+    <string name="schedule_detail">Giờ học</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_fail">Đăng nhập thất bại</string>
+    <string name="pick_img">Pick image</string>
+    <string name="update_profile">Đổi thông tin</string>
+    <string name="register">Đăng ký</string>
+    <string name="un_register">Hủy đăng ký</string>
+    <string name="scan_qr_code">Điểm danh</string>
+    <string name="not_in">Bạn không trong lớp này</string>
+    <string name="not_today">Hôm nay không có lịch</string>
+    <string name="check_in_success">Điểm danh thành công</string>
+    <string name="qr_invalid">QR code không hợp lệ</string>
+    <string name="check_in">Điểm danh</string>
+    <string name="log_out">Đăng xuất</string>
+    <string name="lession_validate">Tiết kết thúc phải lớn hơn tiết bắt đầu</string>
+    <string name="rest_pass">Reset mật khẩu</string>
+
+    <string-array name="sex">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+
+    <string-array name="day">
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+
+    <string-array name="lesson">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>
